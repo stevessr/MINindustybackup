@@ -1,0 +1,30 @@
+# this is not to be changed until v7 gets released.
+#!VERSION 1.9
+#!REPO "Mnemotechnician/New-console"
+#!BRANCH "master"
+
+#Reminder for myself: THINK TWICE BEFORE MODIFYING THE VALUES ABOVE
+
+displayName: "New Console"
+name: "newconsole"
+author: "Mnemotechnician"
+
+description: '''
+Adds a console ui superior to the built-in one and the ones provided by any other mods.
+User-friendly interface, an actual code editor with [accent]syntax highlighting[] and indentation guides, assistance and more,
+a good log panel, execution history - all that is included in this mod.
+
+In addiction to the console, this mod offers:
+- An ability to save as many scripts as you want, execute them or copy to the console
+- An ability to execute scripts when certain events get fired
+- A full-blown file browser (be careful, you can cause real harm with that!)
+
+See README.md for more info.
+'''
+version: 1.9
+subtitle: "Adds a superior console UI."
+minGameVersion: 136
+hidden: true
+
+java: true
+main: "newconsole.NewConsoleMod"

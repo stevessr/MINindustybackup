@@ -1,0 +1,16 @@
+name: "[#999900]Energy source[#ff0000][Cheat]"
+size: 1
+maxNodes: 512
+outputsPower: true
+consumesPower: flase
+alwaysUnlocked: true
+connectedPower: true
+conductivePower: true
+placeableLiquid: true
+powerProduction: 30000.0
+laserRange: 100
+hasPower: true
+category: power
+requirements:[
+]
+research: cheat-wall

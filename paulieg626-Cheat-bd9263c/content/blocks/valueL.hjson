@@ -1,0 +1,12 @@
+name: "[#999900]Mega container [#ff0000][Cheat]"
+size: 2
+alwaysUnlocked:true
+category:liquid
+hasLiquids:true
+outputsLiquid:true
+destructible:true
+liquidCapacity:3000
+liquidPressure:1000.0
+requirements:[
+]
+research: cheat-wall
